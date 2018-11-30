@@ -1,9 +1,9 @@
 Name: Insert %>% dplyr
-Description: Inserts %>% dplyr
+Description: Inserts %>% dplyr.
 Binding: Pipe
 Interactive: false
 
 Name: Insert %>%\n dplyr
-Description: Inserts %>%\n dplyr
+Description: Inserts %>%\n dplyr.
 Binding: Pipenewline
 Interactive: false
