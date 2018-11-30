@@ -1,4 +1,4 @@
-exportPattern("^[[:alpha:]]+")
+#exportPattern("^[[:alpha:]]+")
 export(Pipe)
 export(Pipenewline)
 import(formatR)
