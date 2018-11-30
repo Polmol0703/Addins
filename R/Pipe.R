@@ -1,4 +1,4 @@
-pipedplyr <- function(){
+Pipe <- function(){
   rstudioapi::insertText(" %>% dplyr::")
 }
 
