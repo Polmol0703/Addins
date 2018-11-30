@@ -1,0 +1,9 @@
+Name: Insert %>% dyplr
+Description: Inserts %>% dyplr.
+Binding: Pipe
+Interactive: false
+
+Name: Insert %>%\n dyplr
+Description: Inserts %>%\n dyplr.
+Binding: Pipenewline
+Interactive: false
