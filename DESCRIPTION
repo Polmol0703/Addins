@@ -4,8 +4,8 @@ Title: My rstudio addins
 Version: 0.1.0
 Author: Pol Molinas
 Maintainer: The package maintainer <pol_molinas@berkeley.edu>
-Description: Addins for Rstudio
-License: What license is it under?
+Description: Test Addins for Rstudio
+License: Polmol Inc. 
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 5.0.1
