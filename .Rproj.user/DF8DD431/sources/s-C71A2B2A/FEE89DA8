@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543604943677.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3153222280",
+    "id" : "FEE89DA8",
+    "lastKnownWriteTime" : 1543604959,
+    "last_content_update" : 1543604959057,
+    "path" : "~/Addins/R/Pipe.R",
+    "project_path" : "R/Pipe.R",
+    "properties" : {
+        "cursorPosition" : "3,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
